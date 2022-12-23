@@ -4,7 +4,7 @@ Backend project with the aim to learn how to authenticate users and handle passw
 
 ## The problem
 
-Describe how you approached to problem, and what tools and techniques you used to solve it. How did you plan? What technologies did you use? If you had more time, what would be next?
+Tina and I built this with pair programming. We used node and express to build the backend. It was really good to understand how to store passwords in a safe way. We also did a frontend to connect our mongo database. If we had more time we would also like to add some data to the logged in site. Right now it's just a register/sign in part. We would also like to learn how to reset password by email. 
 
 ## View it live
 
