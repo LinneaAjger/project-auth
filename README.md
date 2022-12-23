@@ -9,7 +9,7 @@ Describe how you approached to problem, and what tools and techniques you used t
 ## View it live
 
 Backend:
-https://project-auth-ca23vvjbjq-lz.a.run.app/
+https://project-auth-vxlybnj4wq-lz.a.run.app
 
 Frontend:
-https://stalwart-faun-264ebc.netlify.app/
+https://linneasauthentication.netlify.app/
